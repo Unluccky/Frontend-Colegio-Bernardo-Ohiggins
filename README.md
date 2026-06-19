@@ -10,7 +10,6 @@ Sistema de gestión escolar desarrollado con **React + Vite + TailwindCSS**, que
 | [Documentacion-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Documentacion-Colegio-Bernardo-Ohiggins.git) | Informe, diagramas y documentación del proyecto |
 
 ---
----
 
 ## Tecnologías utilizadas
 

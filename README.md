@@ -2,6 +2,9 @@
 
 Sistema de gestión escolar desarrollado con **React + Vite + TailwindCSS**, que consume una arquitectura de microservicios a través de un API Gateway.
 
+> 🔗 **Backend del proyecto:** [Backend-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Backend-Colegio-Bernardo-Ohiggins.git) (Spring Boot + microservicios)
+> 📄 **Documentación del proyecto:** [Documentacion-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Documentacion-Colegio-Bernardo-Ohiggins.git)
+
 ---
 
 ## Tecnologías utilizadas
@@ -195,9 +198,19 @@ El sistema utiliza **JWT (JSON Web Token)**:
 
 ---
 
-## Autor
+## Repositorios del proyecto
 
-**José Muñoz y Sebastian Santander**  
-Proyecto grupal - Evaluación Parcial N°3  
-Asignatura: Desarrollo Fullstack III — DuocUC  
-Repositorio: [Frontend-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Frontend-Colegio-Bernardo-Ohiggins)
+| Repositorio | Descripción |
+|---|---|
+| [Backend-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Backend-Colegio-Bernardo-Ohiggins.git) | API Gateway + microservicios (Spring Boot) |
+| [Documentacion-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Documentacion-Colegio-Bernardo-Ohiggins.git) | Informe, diagramas y documentación del proyecto |
+
+---
+
+## Autores
+
+**José Muñoz**
+**Sebastián Santander**
+
+Proyecto grupal — Evaluación Parcial N°3
+Asignatura: Desarrollo Fullstack III — DuocUC

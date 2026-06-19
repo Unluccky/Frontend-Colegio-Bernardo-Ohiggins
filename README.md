@@ -2,9 +2,14 @@
 
 Sistema de gestión escolar desarrollado con **React + Vite + TailwindCSS**, que consume una arquitectura de microservicios a través de un API Gateway.
 
-> 🔗 **Backend del proyecto:** [Backend-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Backend-Colegio-Bernardo-Ohiggins.git) (Spring Boot + microservicios)
-> 📄 **Documentación del proyecto:** [Documentacion-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Documentacion-Colegio-Bernardo-Ohiggins.git)
+## Repositorios del proyecto
 
+| Repositorio | Descripción |
+|---|---|
+| [Backend-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Backend-Colegio-Bernardo-Ohiggins.git) | API Gateway + microservicios (Spring Boot) |
+| [Documentacion-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Documentacion-Colegio-Bernardo-Ohiggins.git) | Informe, diagramas y documentación del proyecto |
+
+---
 ---
 
 ## Tecnologías utilizadas
@@ -195,15 +200,6 @@ El sistema utiliza **JWT (JSON Web Token)**:
 
 ### Administración (`/admin`)
 - `GET/POST/DELETE /admin/usuarios-utp`
-
----
-
-## Repositorios del proyecto
-
-| Repositorio | Descripción |
-|---|---|
-| [Backend-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Backend-Colegio-Bernardo-Ohiggins.git) | API Gateway + microservicios (Spring Boot) |
-| [Documentacion-Colegio-Bernardo-Ohiggins](https://github.com/Unluccky/Documentacion-Colegio-Bernardo-Ohiggins.git) | Informe, diagramas y documentación del proyecto |
 
 ---
 

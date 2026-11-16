@@ -1,5 +1,11 @@
 import apiClient from './client';
 
+// =========== DATOS DEL USUARIO AUTENTICADO ===========
+export const meApi = {
+  estudiante: () => apiClient.get('/me/estudiante'),
+  pupilo: () => apiClient.get('/me/pupilo'),
+};
+
 // =========== ESTUDIANTES ===========
 export const estudiantesApi = {
   listar: () => apiClient.get('/academico/api/estudiantes'),
